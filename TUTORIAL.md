@@ -216,7 +216,7 @@ echo -e "\nFirst name, last name, and GPA of students with a 4.0 GPA:"
 
 ### 1290.1
 
-You will want to print what that sentence is asking for. You should know how to make that query, but lets practice a little first. `SQL` stands for "Structured Query Language". It's the language you have been using to manage your relational databases. In the psql prompt, view all the data in the students table like you have done many times.
+You will want to print what that sentence is asking for. You should know how to make that query, but let's practice a little first. `SQL` stands for "Structured Query Language". It's the language you have been using to manage your relational databases. In the psql prompt, view all the data in the students table like you have done many times.
 
 #### HINTS
 
@@ -1554,7 +1554,7 @@ That showed all the students since it was the right table of the `RIGHT JOIN`. U
 
 ### 2200.1
 
-Lets do some more experiments with joins. Say you wanted to find a list of majors that students are taking. Use the most efficient `JOIN` to join the two tables you need. Only join the tables for now, don't use any other conditions.
+Let's do some more experiments with joins. Say you wanted to find a list of majors that students are taking. Use the most efficient `JOIN` to join the two tables you need. Only join the tables for now, don't use any other conditions.
 
 #### HINTS
 
@@ -1780,7 +1780,7 @@ echo -e "\nList of unique courses, in reverse alphabetical order, that no studen
 
 ### 2340.1
 
-Lets go over a few more things before you figure out how to see the courses a student is taking. Start by doing a `FULL JOIN` on your `students` and `majors` tables.
+Let's go over a few more things before you figure out how to see the courses a student is taking. Start by doing a `FULL JOIN` on your `students` and `majors` tables.
 
 #### HINTS
 
